@@ -1,4 +1,4 @@
-package factoryMethod;
+package factorymethod.button;
 
 public class GreenButton implements Button{
     @Override

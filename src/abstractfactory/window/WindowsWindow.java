@@ -1,8 +1,8 @@
-package abstractFactory;
+package abstractfactory.window;
 
-class WindowsWindow implements Window {
+public class WindowsWindow implements Window {
     @Override
     public void close() {
-        System.out.println();
+        System.out.println("Windows window print");
     }
 }

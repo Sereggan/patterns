@@ -1,4 +1,7 @@
-package factoryMethod;
+package factorymethod.dialog;
+
+import factorymethod.button.Button;
+import factorymethod.button.GreenButton;
 
 public class BadDialog extends Dialog{
     @Override

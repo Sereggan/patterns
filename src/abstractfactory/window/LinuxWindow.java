@@ -1,4 +1,4 @@
-package abstractFactory;
+package abstractfactory.window;
 
 public class LinuxWindow implements Window{
     @Override

@@ -1,6 +1,6 @@
-package abstractFactory;
+package abstractfactory.button;
 
-interface Button {
+public interface Button {
 
     void print();
 }

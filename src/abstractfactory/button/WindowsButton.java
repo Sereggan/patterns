@@ -1,6 +1,6 @@
-package abstractFactory;
+package abstractfactory.button;
 
-class WindowsButton implements Button {
+public class WindowsButton implements Button {
     @Override
     public void print() {
         System.out.println("Windows button print");

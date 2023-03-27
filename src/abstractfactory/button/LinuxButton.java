@@ -1,6 +1,6 @@
-package abstractFactory;
+package abstractfactory.button;
 
-class LinuxButton implements Button{
+public class LinuxButton implements Button{
     @Override
     public void print() {
         System.out.println("Linux button prints");

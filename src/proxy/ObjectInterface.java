@@ -1,2 +1,5 @@
-package proxy;public class ObjectInterface {
+package proxy;
+
+public interface ObjectInterface {
+    void print();
 }

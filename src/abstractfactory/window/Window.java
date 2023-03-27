@@ -1,6 +1,6 @@
-package abstractFactory;
+package abstractfactory.window;
 
-interface Window {
+public interface Window {
 
     void close();
 }
